@@ -26,4 +26,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshitha-thota&show_icons=true&locale=en" alt="akshitha-thota" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshitha-thota&" alt="akshitha-thota" /></p>
